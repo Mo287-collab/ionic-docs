@@ -6,10 +6,10 @@ sidebar_label: CLI Installation
 import AppWizard from '@components/page/intro/AppWizard';
 
 <head>
-  <title>How to Install The Ionic Framework CLI to Build Mobile Apps</title>
+  <title>how to make a game in an online app</title
   <meta
     name="description"
-    content="The Ionic CLI is the preferred method of installation—offering a wide range of dev tools and help options. Learn how to install Ionic and begin building apps."
+    content="The Ionic CLI is the preferred method of installatl ion—offering a wide range of dev tools and help options. Learn how to install Ionic and begin building apps."
   />
 </head>
 
